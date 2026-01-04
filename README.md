@@ -1,4 +1,4 @@
-![Texto alternativo](images/1754750996991.jpeg)
+![Texto alternativo](Images/1754750996991.jpeg)
 
 <!--
 **odam2323/odam2323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
